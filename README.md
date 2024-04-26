@@ -7,9 +7,13 @@ This project focuses on developing a robust disease-symptom prediction system le
 Data sourced from : "https://github.com/clinicalml/HealthKnowledgeGraph"
 
 Key Techniques:
+
 Knowledge Graphs: Structured representations of entities (diseases, symptoms) and their relationships.
+
 Graph Traversal: Navigating the knowledge graph to explore connected symptoms for a given disease.
+
 Node Embeddings (e.g., Node2Vec): Dense vector representations of nodes that capture semantic similarity within the graph.
+
 Cosine Similarity: Measuring the similarity between symptom and disease embeddings for prediction.
 
 
